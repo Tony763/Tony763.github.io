@@ -1,0 +1,31 @@
+2020-09-04 13:26:24.552 | INFO     |  8864 | mycroft.messagebus.load_config:load_message_bus_config:33 | Loading message bus configs
+2020-09-04 13:26:24.698 | ERROR    |  8864 | mycroft.tts.tts:create:529 | The TTS could not be loaded.
+Traceback (most recent call last):
+  File "/opt/mycroft-core/mycroft/tts/mimic_tts.py", line 187, in validate_connection
+    subprocess.call([BIN, '--version'])
+  File "/opt/python/3.7.6/lib/python3.7/subprocess.py", line 339, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/opt/python/3.7.6/lib/python3.7/subprocess.py", line 800, in __init__
+    restore_signals, start_new_session)
+  File "/opt/python/3.7.6/lib/python3.7/subprocess.py", line 1465, in _execute_child
+    executable = os.fsencode(executable)
+  File "/opt/python/3.7.6/lib/python3.7/os.py", line 810, in fsencode
+    filename = fspath(filename)  # Does type-checking of `filename`.
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/mycroft-core/mycroft/tts/tts.py", line 519, in create
+    tts.validator.validate()
+  File "/opt/mycroft-core/mycroft/tts/tts.py", line 435, in validate
+    self.validate_connection()
+  File "/opt/mycroft-core/mycroft/tts/mimic_tts.py", line 189, in validate_connection
+    LOG.info("Failed to find mimic at: " + BIN)
+TypeError: can only concatenate str (not "NoneType") to str
+2020-09-04 13:26:24.707 | ERROR    |  8864 | __main__:on_error:34 | Audio service failed to launch (TypeError('can only concatenate str (not "NoneType") to str')).
+Exception ignored in: <module 'threading' from '/opt/python/3.7.6/lib/python3.7/threading.py'>
+Traceback (most recent call last):
+  File "/opt/python/3.7.6/lib/python3.7/threading.py", line 1307, in _shutdown
+    lock.acquire()
+KeyboardInterrupt
