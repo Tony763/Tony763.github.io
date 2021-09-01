@@ -1,0 +1,269 @@
+{
+  "9092840c0bd28e342d307c476bc0c773" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e74ced4bc16c1314",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531814875,
+        "stop" : 1630531815263,
+        "duration" : 388
+      }
+    } ]
+  },
+  "eba64727b331e9cff15d63e920a0676b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ccb1ac0bd23de62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531815607,
+        "stop" : 1630531816294,
+        "duration" : 687
+      }
+    } ]
+  },
+  "66920015d98317a17fd1a1d2803d37d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e94ab71309435651",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531815264,
+        "stop" : 1630531815606,
+        "duration" : 342
+      }
+    } ]
+  },
+  "e9e41719286ec9ac6ca466e5e07183f1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25968e0cd994de3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531854149,
+        "stop" : 1630531854477,
+        "duration" : 328
+      }
+    } ]
+  },
+  "bec0b9ee4648af3b77db73e8070f1736" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88888c8c85016fad",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: No speech contained the expected contentMycroft responded with:\nMycroft: homeassistant.device.unknown.dialog(HomeAssistantSkill)\n\"Entity \"mycroft tracker\" could not be found.\"\n\n",
+      "time" : {
+        "start" : 1630531833201,
+        "stop" : 1630531853807,
+        "duration" : 20606
+      }
+    } ]
+  },
+  "61181c501dea0dfcb3d306a522b369bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "209944ae59e1596a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531825175,
+        "stop" : 1630531825522,
+        "duration" : 347
+      }
+    } ]
+  },
+  "5ddad78667a3f53d49813a7543b282e2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a5bc208a2b97f64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531816295,
+        "stop" : 1630531823150,
+        "duration" : 6855
+      }
+    } ]
+  },
+  "bbb22bd1e1e837820a07aa68780e17a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4627306125ec63ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531823152,
+        "stop" : 1630531825174,
+        "duration" : 2022
+      }
+    } ]
+  },
+  "f34336e406aa49fed9ce16311dbe2192" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3264d10af7739131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531827590,
+        "stop" : 1630531833200,
+        "duration" : 5610
+      }
+    } ]
+  },
+  "885b1b7b20e3eb71d438163233796e25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7aa2ed4e3455de61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531825523,
+        "stop" : 1630531826228,
+        "duration" : 705
+      }
+    } ]
+  },
+  "88fead54c29dc231d3491543adb9c633" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f915f138a7398673",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531826574,
+        "stop" : 1630531827589,
+        "duration" : 1015
+      }
+    } ]
+  },
+  "a7e15f762ce2f3d55f0e07b1a16707d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76493f9811c1a35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531809590,
+        "stop" : 1630531814874,
+        "duration" : 5284
+      }
+    } ]
+  },
+  "f92935ac2a0644d248ec72417baefff0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d50c1d01f7453cbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531853809,
+        "stop" : 1630531854148,
+        "duration" : 339
+      }
+    } ]
+  },
+  "c083537c88c89adea9828a20adea4854" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "71156cc80a702159",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630531826229,
+        "stop" : 1630531826573,
+        "duration" : 344
+      }
+    } ]
+  }
+}
