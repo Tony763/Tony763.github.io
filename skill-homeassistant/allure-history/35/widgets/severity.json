@@ -1,0 +1,141 @@
+[ {
+  "uid" : "bf6a1129490ffbef",
+  "name" : "set climate temperature",
+  "time" : {
+    "start" : 1630615789541,
+    "stop" : 1630615789891,
+    "duration" : 350
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cae55e85eb2a8c0c",
+  "name" : "decrease light brightness",
+  "time" : {
+    "start" : 1630615771194,
+    "stop" : 1630615771562,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ede9c859847d5a14",
+  "name" : "toggle off switch",
+  "time" : {
+    "start" : 1630615759745,
+    "stop" : 1630615760149,
+    "duration" : 404
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b61598ef17bc612",
+  "name" : "toggle on switch",
+  "time" : {
+    "start" : 1630615760150,
+    "stop" : 1630615761180,
+    "duration" : 1030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5e5add607676a51",
+  "name" : "add item",
+  "time" : {
+    "start" : 1630615789893,
+    "stop" : 1630615790226,
+    "duration" : 333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47ea79d6237d6605",
+  "name" : "turn off switch",
+  "time" : {
+    "start" : 1630615761181,
+    "stop" : 1630615769346,
+    "duration" : 8165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d722ea0b622f970d",
+  "name" : "turn off light",
+  "time" : {
+    "start" : 1630615771563,
+    "stop" : 1630615777850,
+    "duration" : 6287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc2c9664eae2b7ca",
+  "name" : "tracker",
+  "time" : {
+    "start" : 1630615778892,
+    "stop" : 1630615789539,
+    "duration" : 10647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9142aba5a2315d86",
+  "name" : "triger automation",
+  "time" : {
+    "start" : 1630615777852,
+    "stop" : 1630615778891,
+    "duration" : 1039
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f69b1db875b1a4ca",
+  "name" : "read sensor",
+  "time" : {
+    "start" : 1630615753641,
+    "stop" : 1630615759323,
+    "duration" : 5682
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3ff6ea818370a1b",
+  "name" : "turn on light",
+  "time" : {
+    "start" : 1630615769347,
+    "stop" : 1630615770145,
+    "duration" : 798
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4414e5dfbf381838",
+  "name" : "increase light brightness",
+  "time" : {
+    "start" : 1630615770509,
+    "stop" : 1630615771193,
+    "duration" : 684
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2826ef77ae1f03b",
+  "name" : "set light brightness",
+  "time" : {
+    "start" : 1630615770147,
+    "stop" : 1630615770508,
+    "duration" : 361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6a235d884ef0786",
+  "name" : "turn on switch",
+  "time" : {
+    "start" : 1630615759325,
+    "stop" : 1630615759743,
+    "duration" : 418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
