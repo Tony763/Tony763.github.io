@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: No speech contained the expected contentMycroft responded with:\nMycroft: homeassistant.device.unknown.dialog(HomeAssistantSkill)\n\"Sorry, entity \"mycroft location\" wasn't found.\"\n\n",
+      "children" : [ {
+        "name" : "tracker",
+        "uid" : "6a589b4dfe9d5126",
+        "parentUid" : "917b4479afd895543a7dcbe7cce12fc5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630619769994,
+          "stop" : 1630619790600,
+          "duration" : 20606
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "917b4479afd895543a7dcbe7cce12fc5"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
