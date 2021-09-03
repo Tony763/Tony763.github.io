@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: No speech contained the expected contentMycroft responded with:\nMycroft: unknown.dialog(UnknownSkill)\n\"Please rephrase your request.\"\n\n",
+      "children" : [ {
+        "name" : "read sensor",
+        "uid" : "f43d3cba59014bd3",
+        "parentUid" : "bbe96a96642d6ca72ff045d7ee1bd4d0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630704856579,
+          "stop" : 1630704877187,
+          "duration" : 20608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bbe96a96642d6ca72ff045d7ee1bd4d0"
+    }, {
+      "name" : "AssertionError: No speech contained the expected contentMycroft responded with:\nMycroft: homeassistant.device.unknown.dialog(HomeAssistantSkill)\n\"Sorry, entity \"the mark one\" wasn't found.\"\n\n",
+      "children" : [ {
+        "name" : "tracker",
+        "uid" : "2371ab0e071284d2",
+        "parentUid" : "08c5e66b97d06d22dcc14f15feb53e6a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630704889099,
+          "stop" : 1630704909706,
+          "duration" : 20607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "08c5e66b97d06d22dcc14f15feb53e6a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
